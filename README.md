@@ -1,5 +1,7 @@
-<section>Hi there 👋
+<section>
+  Hi there 👋
 </section>
+
 - 🔭 I’m currently working on my future.
 - 🌱 I’m currently learning new skills.
 - 👯 I’m looking to collaborate on open source.
