@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Surve</h1>
-# Welcome to [Prathamesh Surve's](https://PrathameshSurve.me/) profile! <a href="https://www.PrathameshSurve.me/"></a>
+<h1 align="center">Hi 👋, I'm Prathamesh Surve
+# Welcome to [Prathamesh Surve's](https://PrathameshSurve.me/) profile! <a href="(https://github.com/PrathameshSurve)"></a></h1>
+
 <h3 align="justify">
   
 Programming is something I'm interested in, and I want to contribute to open source.
