@@ -1,4 +1,4 @@
-<h1 align="centre">Welcome to Prathamesh Surve's profile! 
+<h1 align="center">Welcome to Prathamesh Surve's profile! 
 </h1>
 
 
