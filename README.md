@@ -8,7 +8,7 @@ Programming is something I'm interested in, and I want to contribute to open sou
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about code.
 - 📫 How to reach me: prathamsurve101@gmail.com / +91 8390079850
-- ⚡ Fun fact: You realize new things daily.
+- ⚡ Fun fact: You realize new things every day.
 
 <!--
 **PrathameshSurve/PrathameshSurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
