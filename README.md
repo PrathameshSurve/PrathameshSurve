@@ -43,7 +43,7 @@ Motivated and hard-working CSE undergraduate student with experience working on 
 - 🌱 I’m currently learning **new skills.**
 - 👯 I’m looking to collaborate on *open source.*
 - 💬 Talk about ***Growth.***
-- 📫 My way of communication** prathamsurve101@gmail.com / +91 8390079850**
+- 📫 My way of communication **prathamsurve101@gmail.com / +91 8390079850**
 - ⚡ Fun fact **I realize new things every day.**
 
 <!--
