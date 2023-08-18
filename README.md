@@ -1,11 +1,9 @@
-<h1 align="center">Welcome to <span style="color: red"> Prathamesh Surve's</span> profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h1>
 
-<h2>
-<span style="color:red">
-Glad to see you here!
-</span>
-</h2>
+# Welcome to [Prathamesh Surve's](https://www.linkedin.com/in/prathmesh-surve-83900l9850/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+## Glad to see you here..!
+
 
 <h3 align="justify">
   
