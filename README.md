@@ -1,6 +1,7 @@
 <section>
   Hi there 👋
 </section>
+Programming is something I'm interested in, and I want to contribute to open source.
 
 - 🔭 I’m currently working on my future.
 - 🌱 I’m currently learning new skills.
