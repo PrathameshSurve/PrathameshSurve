@@ -12,8 +12,8 @@ Programming is something I'm interested in, and I want to contribute to open sou
 
 
 
-- 🔭 I’m currently working on *my future.*
-- 🌱 I’m currently learning *new skills.*
+- 🔭 I’m currently working on *Java, Javascript, Git, Github, Command Line.*
+- 🌱 I’m currently learning *fullstack Java development.*
 - 👯 I’m looking to collaborate on *open source.*
 - 💬 Talk about ***Growth.***
 - 📫 Way to talk **prathamsurve101@gmail.com / +91 8390079850**
