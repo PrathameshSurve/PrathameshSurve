@@ -6,7 +6,7 @@
 
 <h4 align="justify">
   
-Programming is something I'm interested in, and I want to contribute to open source. I'm a motivated and hard-working CSE undergraduate student with experience working on web application development and software development. Currently trying to explore Open Source, Artificial Intelligence, Data Science and Machine Learning fields. Dedicated to achieving goals.
+Programming is something I'm interested in, and I want to contribute to open source. I'm a motivated and hard-working CSE undergraduate student with experience working on web application development and software development. Currently trying to explore Open Source, Artificial Intelligence, Data Science and Machine Learning fields. You can go through the profile for more details.
 </h4>
 
 
