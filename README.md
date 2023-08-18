@@ -2,6 +2,7 @@
  # Welcome to [Prathamesh Surve's](https://github.com/PrathameshSurve/) profile! 
   <a href="(https://github.com/PrathameshSurve/)"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </a>
 </h1>
+# Welcome to [Aswin Barath's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <h3 align="justify">
   
