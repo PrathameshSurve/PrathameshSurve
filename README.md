@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to [Prathamesh Surve's](https://PrathameshSurve.me/) profile! <a href="(https://github.com/PrathameshSurve)"></a></h1>
+<h1 align="center">Welcome to [Prathamesh Surve's](https://github.com/PrathameshSurve) profile! <a href="(https://github.com/PrathameshSurve)"></a></h1>
 
 <h3 align="justify">
   
