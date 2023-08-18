@@ -6,8 +6,7 @@
 
 <h3 align="justify">
   
-Programming is something I'm interested in, and I want to contribute to open source.
-Motivated and hard-working CSE undergraduate student with experience working on web application development and software development. Currently trying to explore Open Source, Artificial Intelligence, Data Science and Machine Learning fields. Dedicated to achieving goals.</h3>
+Programming is something I'm interested in, and I want to contribute to open source. I'm a motivated and hard-working CSE undergraduate student with experience working on web application development and software development. Currently trying to explore Open Source, Artificial Intelligence, Data Science and Machine Learning fields. Dedicated to achieving goals.</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garuda5611&label=Profile%20views&color=0e75b6&style=flat" alt="garuda5611" /> </p>
 
