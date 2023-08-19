@@ -6,7 +6,7 @@
 
 <h4 align="justify">
   
-Programming is something I'm interested in,💻 and I want to contribute to open source. I'm a motivated and hard-working CSE undergraduate student with experience working on web application development and software development.👨‍💻 Currently trying to explore Open Source, Artificial Intelligence, Data Science and Machine Learning fields.🚀 You can go through the profile for more details.😊
+🧑‍💻 Programming is something I'm interested in, and a strong desire to make contributions to open-source projects. As a dedicated and diligent computer science undergraduate, I possess hands-on experience in web application development and software engineering. 🖱️My current endeavours involve exploring the realms of Open Source, Artificial Intelligence, Data Science, and Machine Learning. 🚀 For more comprehensive information, please feel free to review my profile. 😊
 </h4>
 
 
