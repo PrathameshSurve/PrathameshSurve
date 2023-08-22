@@ -1,4 +1,4 @@
-# Welcome to [Prathamesh Surve's](https://www.linkedin.com/in/prathmesh-surve-83900l9850/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Welcome to [Prathamesh Surve's](https://prathameshsurve.github.io/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
