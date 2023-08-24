@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning *fullstack Java development.*
 - 👯 I’m looking to collaborate on *open source.*
 - 💬 Talk about ***Growth.***
-- 📫 Way to talk **prathamsurve101@gmail.com / +91 8390079850**
+- 📫 Ways to talk **prathamsurve101@gmail.com / +91 8390079850**
 - ⚡ Fun fact **Photo & Video editor**
  
 <!--
