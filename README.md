@@ -1,10 +1,9 @@
-# Welcome to [Prathamesh Surve's](https://prathameshsurve.github.io/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Welcome to [Prathamesh Surve's](https://prathameshsurve.github.io/) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 
+## Glad to see you here..!😊 
 
-## Glad to see you here..!😊
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathameshSurve&label=Profile%20views&color=0e75b6&style=flat" alt="PrathameshSurve" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PrathameshSurve&label=Profile%20views&color=brightgreen&style=flat" alt="PrathameshSurve" /> </p>
 
 <h4 align="justify">
   
