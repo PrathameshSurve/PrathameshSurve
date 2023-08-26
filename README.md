@@ -4,6 +4,8 @@
 
 ## Glad to see you here..!😊
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrathameshSurve&label=Profile%20views&color=0e75b6&style=flat" alt="PrathameshSurve" /> </p>
+
 <h4 align="justify">
   
 🧑‍💻 Programming is something I'm interested in, and a strong desire to make contributions to open-source projects. As a dedicated and diligent computer science undergraduate, I possess hands-on experience in web application development and software engineering. 🖱️My current endeavours involve exploring the realms of Open Source, Artificial Intelligence, Data Science, and Machine Learning. 🚀 For more comprehensive information, please feel free to review my profile. 😊
