@@ -1,7 +1,7 @@
 # Welcome to [Prathamesh Surve](https://prathameshsurve.github.io/)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## Glad to see you here..!😊 # 3
+## Glad to see you here..!😊
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PrathameshSurve&label=Profile%20views&color=brightgreen&style=flat" alt="PrathameshSurve" /> </p>
 
